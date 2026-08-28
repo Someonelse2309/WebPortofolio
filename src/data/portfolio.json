@@ -1,0 +1,181 @@
+{
+  "about": {
+    "name": "Nicholas Tanugroho",
+    "title": "Data Enthusiast",
+    "introduction": [
+      "Hi there!",
+      "I'm a passionate tech and data enthusiast, constantly driven by curiosity and the desire to grow.",
+      "Currently learning about iOS development and ecosystem at Apple Developer Academy @UC, Jakarta.  I learn how to develop a clean and impactful app within the iOS ecosystem.",
+      "I had the privilege of learning from the Bangkit Academy by Google, Traveloka, and The GOTO Group, where I pursued the Machine Learning Path.",
+      "I thrive on discovering new knowledge and taking bold steps beyond my comfort zone. Whether it's diving into cutting-edge technologies or tackling unfamiliar challenges, I'm always eager to push myself and keep evolving."
+    ],
+    "picture": "/Pics.jpeg",
+    "email": "tanugroho.nicholas@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicholas-tanugroho/"
+  },
+  "experience": [
+    {
+      "company": "Apple Developer Academy @ UC, Jakarta",
+      "role": "iOS Developer Intern",
+      "duration": "March 2026 - Present",
+      "description": [
+        "Developed 7 applications and prototypes using Swift and SwiftUI as part of multidisciplinary product teams.",
+        "Conducted multiple user interviews and usability tests to validate product decisions and iterate on application features.",
+        "Collaborated with teams of 5–6 members to deliver end-to-end app projects, from ideation and UI/UX design to implementation and presentation.",
+        "Presented solutions to Apple mentors and industry partners, translating user feedback into iterative product improvements."
+      ],
+      "type": "Internship"
+    },
+    {
+      "company": "PERKEMI DIY",
+      "role": "Web Developer",
+      "duration": "August 2025 - December 2025",
+      "description": [
+        "Directed the end-to-end product development of SentakuKempo for PERKEMI DIY, digitalizing tournament operations for 32+ participants and officials.",
+        "Prioritized and defined core features including automated bracket generation, multi-role access control, and a real-time scoring system across 2 match categories.",
+        "Delivered a centralized live-monitoring dashboard utilized by 32+ committees and referees to seamlessly assess match progress and ensure event transparency."
+      ],
+      "type": "Internship"
+    },
+    {
+      "company": "Universitas Kristen Duta Wacana",
+      "role": "Assistant Lecturer",
+      "duration": "August 2023 - August 2025",
+      "description": [
+        "Facilitated 3-hour laboratory sessions for classes of up to 45 students in algorithms, databases, software engineering, operations research, and IoT.",
+        "Led teams of up to 10 assistant lecturers, coordinating laboratory activities and mentoring junior assistants.",
+        "Assisted 200+ students across multiple semesters."
+      ],
+      "type": "Part-time"
+    }
+  ],
+  "education": {
+    "formal": [
+      {
+        "institution": "Universitas Kristen Duta Wacana",
+        "degree": "Bachelor of Computer Science (B.Cs.) / Sarjana Komputer (S.Kom.)",
+        "duration": "2022 - 2026",
+        "grade": "3.75/4.0 GPA"
+      }
+    ],
+    "informal": [
+      {
+        "course": "Bangkit Academy | Machine Learning Cohort",
+        "provider": "Google, Tokopedia, Gojek, & Traveloka",
+        "year": "2024 - 2025"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Effective Workplace Skills",
+        "issuer": "Wadhwani Foundation",
+        "year": "2024",
+        "link": "https://web.certificate.wfglobal.org/en/certificate?certificateId=677e8797adae54cc92804c49"
+      },
+      {
+        "title": "Employability Skills",
+        "issuer": "Wadhwani Foundation",
+        "year": "2024",
+        "link": "https://web.certificate.wfglobal.org/en/certificate?certificateId=67711988c016346e012645aa"
+      },
+      {
+        "title": "TensorFlow Developer Specialization",
+        "issuer": "DeepLearning.AI",
+        "year": "2024",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/H7TMEJZWT6G2"
+      },
+      {
+        "title": "Machine Learning Specialization",
+        "issuer": "DeepLearning.AI, Stanford University",
+        "year": "2024",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/3OYT1A52CR3J"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "title": "SPARK Datathon by Telkomsel | 2025",
+      "position": "2nd Place",
+      "description": "AI-powered ICD-10 clinical coding assistant."
+    },
+    {
+      "title": "AI-Driven Robot Competition by Sari Teknologi | 2024",
+      "position": "3rd Place",
+      "description": "Real-time demographic and emotion recognition system."
+    },
+    {
+      "title": "HMSI UKDW Coding Competition | 2024",
+      "position": "1st Place",
+      "description": "Competitive programming and algorithmic problem solving."
+    }
+  ],
+  "projects": [
+    {
+      "title": "BeBeJa : Bebek Belajar Mengeja",
+      "techStack": [
+        "Unity",
+        "C#"
+      ],
+      "description": "BeBeJa is an educational game designed to help children with dyslexia improve their reading, writing, and phonetic skills through an engaging, multisensory approach.",
+      "role": "Lead Game Coder",
+      "learnings": "Learned how to make 2D games in unity. I learn that small things can give out a big impact and that user experience is the most important thing in product.",
+      "image": "/BeBeJa.jpg"
+    },
+    {
+      "title": "Foodify",
+      "techStack": [
+        "Tensorflow",
+        "Python"
+      ],
+      "description": "Foodify is an advanced Android application that leverages artificial intelligence to revolutionize the management of daily nutritional needs.",
+      "role": "ML Engineer",
+      "learnings": "I learn how to use tensorflow and other deep learning tools",
+      "image": "/Foodify.jpg"
+    },
+    {
+      "title": "CliniCode AI",
+      "techStack": [
+        "Vertex AI",
+        "Bliv DataPipeline",
+        "Pinecone",
+        "Python",
+        "Groovy (Data Pipeline)"
+      ],
+      "description": "CliniCode AI is a fine tuned LLM based chatbot to help the doctors, nurses, medical record officers and other health care workers to determined the ICD-10 code, differential diagnosis and analytical insight based on the assesed symptom",
+      "role": "Data Engineer",
+      "learnings": "I learn how to effectively utilize data pipelines in large language model (LLM) projects",
+      "image": "/CliniCode.jpg"
+    },
+    {
+      "title": "Terminal Capacity",
+      "techStack": [
+        "Unity",
+        "C#"
+      ],
+      "description": "A psychological meta-horror game about truth, memory, and the things that refuse to stay inside a computer.",
+      "role": "Lead Game Coder & Story Writter",
+      "learnings": "I learn how to make compelling story to a game.",
+      "image": "/TerminalCapacity.jpg"
+    },
+    {
+      "title": "Booksify",
+      "techStack": [
+        "Swift",
+        "BERT",
+        "CoreMLTools"
+      ],
+      "description": "immersive iOS e-reading application in SwiftUI that dynamically adapts the reading environment based on the narrative's emotional tone.",
+      "role": "ML Engineer",
+      "learnings": "I learn how to effectively use CoreML tools to wrap model.",
+      "image": "/Booksify.jpg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "post-1",
+      "title": "Placeholder Blog Post",
+      "date": "August 28, 2026",
+      "summary": "Placeholder for future blogposts"
+    }
+  ]
+}
