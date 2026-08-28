@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Container, Button, Spinner, Alert } from 'react-bootstrap';
+import { Container, Spinner, Alert } from 'react-bootstrap';
 import { useParams, Link } from 'react-router-dom';
 import portfolioData from '../data/portfolio.json';
 
@@ -37,16 +37,16 @@ const BlogPost = () => {
     return (
       <Container className="py-5">
         <Alert variant="danger">Blog post metadata not found in JSON.</Alert>
-        <Button as={Link} to="/blogs" variant="secondary">Back to Blogs</Button>
+        <Link to="/blogs" className="btn btn-secondary">Back to Blogs</Link>
       </Container>
     );
   }
 
   return (
     <Container className="py-5" style={{ maxWidth: '800px' }}>
-      <Button as={Link} to="/blogs" variant="outline-secondary" className="mb-4">
+      <Link to="/blogs" className="btn btn-outline-secondary mb-4">
         &larr; Back to Blogs
-      </Button>
+      </Link>
       
       <h1 className="fw-bold mb-2">{blogMeta.title}</h1>
       <p className="text-muted mb-5">{blogMeta.date}</p>

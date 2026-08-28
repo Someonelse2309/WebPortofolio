@@ -1,4 +1,4 @@
-import { Container, Row, Col, Card, Button } from 'react-bootstrap';
+import { Container, Row, Col, Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import portfolioData from '../data/portfolio.json';
 
@@ -17,9 +17,9 @@ const Blogs = () => {
                 <Card.Subtitle className="mb-3 text-muted">{blog.date}</Card.Subtitle>
                 <Card.Text>{blog.summary}</Card.Text>
                 <div className="mt-auto pt-3">
-                  <Button as={Link} to={`/blogs/${blog.id}`} variant="primary">
+                  <Link to={`/blogs/${blog.id}`} className="btn btn-primary">
                     Read More
-                  </Button>
+                  </Link>
                 </div>
               </Card.Body>
             </Card>
