@@ -172,10 +172,16 @@
   ],
   "blogs": [
     {
-      "id": "post-1",
-      "title": "Placeholder Blog Post",
-      "date": "August 28, 2026",
-      "summary": "Placeholder for future blogposts"
+      "id": "meepo-support",
+      "title": "Meepo: Meet Your People — Support & FAQ",
+      "date": "November 13, 2026",
+      "summary": "Official support, troubleshooting guide, and frequently asked questions for Meepo — an offline emergency peer-to-peer disaster communication app for iPhone."
+    },
+    {
+      "id": "meepo-privacy-policy",
+      "title": "Meepo: Meet Your People — Privacy Policy",
+      "date": "November 13, 2026",
+      "summary": "Official Privacy Policy for Meepo: zero-cloud, privacy-by-design, offline peer-to-peer data protection, and Apple 'Data Not Collected' compliance."
     }
   ]
 }
